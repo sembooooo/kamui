@@ -1,0 +1,1 @@
+path/to/python.exe "path/to/kamui.py"

@@ -1,0 +1,10 @@
+{
+    "YT": {
+        "type": "link",
+        "value": "www.youtube.com"
+    },
+    "google": {
+        "type": "link",
+        "value": "www.google.com"
+    }  
+}
