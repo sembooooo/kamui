@@ -32,6 +32,7 @@ For those who cannot execute python files by just clicking on the file .
 1. Create a shortcut icon for the bat file.
 1. ![](./screenshort_kamui_shortcutsetting.png)  
 Set the defined short cut which you want. Unfortunatley in windows it always has to be CTRL+ALT+ *your desired key*
+1. Restart your system.
 1. Thats it. You are all set.
 
 ### Linux
